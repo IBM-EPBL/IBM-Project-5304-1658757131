@@ -1,0 +1,30 @@
+[1]  Kübra  Eroğlu  et al 2016 proposed  this  study  tomake  a  comparison  of  the  performance  of  thedifferent  classification  methods  and  ensemblealgorithms
+that  are  used  for  detection  of  chronickidney  disease.  This  study  involves  six  differentbasic  classifier  namely:  k nearest neighbor  (KNN),naive  bayes, 
+support  vector  machines  (SVM),random trees,  J48, decision tables  and three differentensemble  algorithm  namely:  bagging,  AdaBoost,random subspace are used in 
+the study. Classificationresults  were  derived  using  three  differentperformance evaluation criteria  (kappa, accuracy andthe  area  under  the  ROC  curve  (AUC)).
+
+[2] Veenita Kunwar  et.al 2016 Data mining is  vastlybeing investigated in diagnostic results. Huge amountof un-mined data  derived from healthcare industry isused
+to  discover  sensible  information  in  order todiagnose  and help  in decision  making. Data  mininghelps  in  extracting  hidden  information  from  hugedataset.  
+It  also  helps  in  categorizing  data,  validatethem and derive unique patterns in them. Several datamining  techniques  like  classification,  clustering,regression,
+association analysis, etc are used in healthcare  data mining.  The  objective of  this paper  is forthe  prediction  of  Chronic  Kidney  Disease  (CKD)through  
+classification  techniques  like  ArtificialNeural  Network  (ANN)  and  Naive  Bayes.Rapidminer  tool was  used  for  experimental purposeand the results  show that  
+Naive Bayes  obtains moreaccurate results than the Artificial Neural Network.
+
+[3] K.R.Lakshmi et.al 2014 proposed a study thatrecords  the  performance  evaluation  of  three  datamining techniques that are used for predicting kidneydialy 
+survivability. This research  inovlves variousdata  mining  techniques like  Decision tree,  ArtificialNeural  Networks and  Logical  Regression to  
+extractknowledge  based  on  the  interaction  between  thesevariables and predict patient survival. A performancecomparison  based  on  these  three  data  
+miningtechniques  is  performed using  the  data collected  atdifferent  dialysis  sites.  The  outcomes  are  reportedand finally  it is concluded  that ANN  is 
+advisable tobe used for Kidney dialysis  in order  to derive  betterresults with performance and accuracy.
+
+[4] Naganna  Chetty  et.al  2015,  Chronic  KidneyDisease  (CKD)  has  become a  common  problem  tothe  public  in  recent  days.  CKD  refers  to  kidneydamage  
+and  is measured  in terms  of  GFR(Glomerular Filtration Rate). Researchers from healthcare as well as the academicians are  working on theCKD problem and design an 
+efficient model in orderto predict and classify the CKD  patient in the initialstage of  CKD. This  can help  health care  persons totake the necessary treatment to 
+prevent or cure CKD.There  are  several  classification  models  built  usingdifferent  classification  algorithms.  Some  of  themethods  are;  bestfirst  search 
+method  andWrappersubset  attribute  evaluator  to  predict  andclassify  the  CKD  and  non  CKD  patients.  Thesemodels are implemented on the CKD dataset that 
+wasdownloaded from  the UCI  repository. These modelsshow better performance in classifying CKD and nonCKD cases.
+
+[5] Miguel A et.al 2014, demonstrated  the possibilityof  a  distributed  approach  for  the  management  ofalarms  that  are  related  to  the  monitoring  of  
+CKDpatients who are  part of  the eNefro project.  In orderto satisfy this  purpose and from the methodologicalpoint  of view,  these alarms  and prioritization 
+issuesare  concerned  methodologically  according  to  thedefinitions  provided  by  the  ISO  IEC/CD  60601.Apart  from  the  technological  perspective,  
+thisapproach is based  on the publisher/subscriber  modeland is developed according to the DDS specification.This  double perspective  approach makes  it possiblefor 
+a proper management of the HD alarms describedin eNefro. 
